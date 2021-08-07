@@ -1,0 +1,1 @@
+I am recreating the Google Search Engine webpage from scratch. I will use the developer tools to assist me in this. At the end of this, I hope to be more proficient on HTML and CSS. 
